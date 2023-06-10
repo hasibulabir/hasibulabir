@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Hasibul Hasan Abir</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently Working on **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hasibulabir](https://github.com/hasibulabir)
 
